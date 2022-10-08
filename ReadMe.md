@@ -61,7 +61,7 @@ This is kind of the logic used for the program
 ## License
 At the moment, the below license applies to every user. Under no circumstance, can someone publish, or modify and publish, this code for commercial use. The only instance the license does not fully apply are in the case of entertainers/influencers/content creators. They are free to use/modify this application on their streams/videos despite the NonCommercial clause, but they cannot commercialize the distribution of the software (i.e. put my code, or any modifications fo the code, behind a paywall).
 
-For credit, you only need to include a direct link to the github releases page.
+For credit, you only need to include a direct link to the github releases page: https://github.com/zapajax/Marauders-Musicbox/releases
 
 License: https://creativecommons.org/licenses/by-nc-sa/4.0
 

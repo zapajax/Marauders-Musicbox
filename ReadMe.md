@@ -42,6 +42,10 @@ To run the application, you can either run it from the executable, or python.
  5. To stop the program, press 'alt+x'
 
  NOTE: This program is dumb as rocks. It will not know when you get off the organ and will continue. If you need to move, you'll have to stop the song or the program.
+ NOTE2: If you are a developer who is trying to use this and you want to export everything to a single exe file, I used pyinstaller with this command:
+ ```
+ pyinstaller -F .\main.py -n "Marauder's Musicbox" -w
+ ```
 
 ## Logic
 This is kind of the logic used for the program

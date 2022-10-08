@@ -67,10 +67,14 @@ License: https://creativecommons.org/licenses/by-nc-sa/4.0
 
 ## Other Notes
 If you use a musicbox file that does not match one of my hashes, I am not responsible for it's actions. 
+
 This program should not be considered hacking/cheating because it only simulates key presses and mouse button presses. Rare may have a different opinion on the matter. This statement will be updated if anything changes.
+
 If you run into issues, you can contact me at zapajaxdev@gmail.com
 
 ## How to add your own midi files
 You can download or create midi files. Just make sure that when you do it for this app there are only one or two tracks. If you have two tracks, then the first track is only informational.
+
 Use reaper or some other midi editor to edit the midi files so that there are no notes that play at the same time. The program will probably not work properly if there are overlapping notes.
+
 As a tip: if you are dealing with a song that jumps notes a lot, then I suggest putting spaces in between the notes so that there is enough time for the program to switch keys and not feel behind.

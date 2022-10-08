@@ -60,7 +60,7 @@ For credit, you only need to include a direct link to the github releases page.
 
 License: https://creativecommons.org/licenses/by-nc-sa/4.0
 
-
 ## Other Notes
 If you use a musicbox file that does not match one of my hashes, I am not responsible for it's actions. 
 This program should not be considered hacking/cheating because it only simulates key presses and mouse button presses. Rare may have a different opinion on the matter. This statement will be updated if anything changes.
+If you run into issues, you can contact me at zapajaxdev@gmail.com
